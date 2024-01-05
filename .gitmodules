@@ -1,0 +1,9 @@
+[submodule "terraform"]
+	path = terraform
+	url = https://github.com/hashicorp/terraform.git
+[submodule "vault"]
+	path = vault
+	url = https://github.com/hashicorp/vault.git
+[submodule "consul"]
+	path = consul
+	url = https://github.com/hashicorp/consul.git
